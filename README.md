@@ -1,0 +1,1 @@
+Psoc_accelerometer_lib
